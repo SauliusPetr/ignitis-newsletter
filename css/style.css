@@ -133,7 +133,7 @@ footer > .links img {
   height: 100%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1025px) {
   body {
     margin: 35px 65px;
   }
